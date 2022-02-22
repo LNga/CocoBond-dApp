@@ -1,2 +1,2 @@
 # CocoBond--Ethereum
-A dapp that allows for anyone to register for a contingent convertible bond
+A dapp that allows anyone to register for a contingent convertible bond
